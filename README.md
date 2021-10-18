@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **alberto467/alberto467** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Coding History
+![Coding History](https://wakatime.com/share/@1473c76a-1599-4e85-85a7-1bb79a3eb1ff/f3666ae3-4bab-45a7-b073-e96bde18617c.svg)
+
+### Languages
+![Languages](https://wakatime.com/share/@1473c76a-1599-4e85-85a7-1bb79a3eb1ff/73695581-ab59-4fe3-85a2-8772dc2aafaa.svg)
