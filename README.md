@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![ReadMe Stats](https://github-readme-stats.vercel.app/api?username=alberto467&show_icons=true&theme=default)
+
 [![wakatime](https://wakatime.com/badge/user/1473c76a-1599-4e85-85a7-1bb79a3eb1ff.svg)](https://wakatime.com/@1473c76a-1599-4e85-85a7-1bb79a3eb1ff)
 
 ### Coding History
